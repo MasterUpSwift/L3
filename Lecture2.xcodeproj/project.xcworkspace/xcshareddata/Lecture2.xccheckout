@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>AE4D06D8-4E55-4E33-A5AC-6E391B8AB4E5</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Lecture2</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9FE02391DD57FDD357973C2E82D3E18DBA2A852D</key>
+		<string>https://github.com/kei-sidorov/MU110_Lecture2.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Lecture2.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9FE02391DD57FDD357973C2E82D3E18DBA2A852D</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/kei-sidorov/MU110_Lecture2.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9FE02391DD57FDD357973C2E82D3E18DBA2A852D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9FE02391DD57FDD357973C2E82D3E18DBA2A852D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MU110_Lecture2</string>
+		</dict>
+	</array>
+</dict>
+</plist>
